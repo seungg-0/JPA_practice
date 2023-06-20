@@ -1,3 +1,3 @@
 # JPA_practice
 
-![](.img/erd.png)
+(img/erd.png)
