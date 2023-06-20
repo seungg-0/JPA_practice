@@ -1,3 +1,3 @@
 # JPA_practice
 
-![Uploading image.png…]()
+![대체 텍스트](.img/erd.png)
